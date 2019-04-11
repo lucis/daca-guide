@@ -160,7 +160,7 @@ export const PostFullContent = styled.section`
     font-size: 0.8em;
     line-height: 1em;
     font-weight: 400 !important;
-    background: ${colors.whitegrey};
+    background: ${colors.darkgrey};
     border-radius: 3px;
   }
 
@@ -387,7 +387,7 @@ export const PostFullContent = styled.section`
   code[class*='language-'],
   pre[class*='language-'] {
     color: white;
-    background: none;
+    background-color: ${colors.midgrey};
     font-family: Consolas, Menlo, Monaco, source-code-pro, Courier New, monospace;
     font-feature-settings: normal;
     text-align: left;

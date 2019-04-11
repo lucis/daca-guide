@@ -30,7 +30,7 @@ export interface WebsiteConfig {
 
 const config: WebsiteConfig = {
   title: 'The DACA Guide',
-  description: 'A collection of stories to help you build great web apps.',
+  description: 'Uma coleção de histórias sobre a construção de aplicações web robustas',
   coverImage: 'img/blog-cover.jpg',
   logo: 'img/ghost-logo.png',
   lang: 'en',
